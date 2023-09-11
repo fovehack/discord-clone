@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+![Example1](https://github.com/fovehack/discord-clone/assets/117688833/dc575042-3698-4e93-967a-d7b6b75a1ddd)
+
 ## Getting Started
 
 First, run the development server:
