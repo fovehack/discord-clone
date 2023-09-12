@@ -2,6 +2,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ![Example1](https://github.com/fovehack/discord-clone/assets/117688833/dc575042-3698-4e93-967a-d7b6b75a1ddd)
 
+![image](https://github.com/fovehack/discord-clone/assets/117688833/7b3d86f3-e20f-4038-a371-c9c36f8d57be)
+
+
 ## Getting Started
 
 First, run the development server:
