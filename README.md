@@ -4,6 +4,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ![image](https://github.com/fovehack/discord-clone/assets/117688833/7b3d86f3-e20f-4038-a371-c9c36f8d57be)
 
+![image](https://github.com/fovehack/discord-clone/assets/117688833/1ef2cae2-51bd-46d0-bc39-23f0e7aa3e1e)
+
+
 
 ## Getting Started
 
